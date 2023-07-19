@@ -8,11 +8,25 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+img {
+  width: 301px;
+}
+p, li{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+    
+}
+
 .header {
   background-color: black;
+  border: 1px solid black;
   padding-left: 70px;
 }
 
 .footer{
-  background: green;
+  background: black;
+  color: white;
+  padding-left: 70px;
+  border: 1px solid black;
+  
 }
